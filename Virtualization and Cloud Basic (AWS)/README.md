@@ -1,5 +1,4 @@
-# Task 2.2
-
+# Virtualization and Cloud Basic (AWS)
 
 Created AWS account, launched, configured, connected and terminated instance using the t2.micro and the CentOS operating system.
 
